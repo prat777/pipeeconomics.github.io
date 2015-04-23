@@ -1,17 +1,15 @@
 .Block1 {
+  Background-color: blue;
 
 }
 .Block2{
-  
+    Background-color: green;
 }
 .Block3{
-  
+    Background-color: blue;
 }
 .Block{
-  
+    Background-color: yellow;
 }
 
-div {
-  background-color: red;
-  width: blue;
-}
+
