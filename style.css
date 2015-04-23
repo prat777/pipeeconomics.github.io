@@ -1,6 +1,5 @@
 .Block1 {
-  background-color : blue;
-  width 500px;
+
 }
 .Block2{
   
@@ -10,4 +9,9 @@
 }
 .Block{
   
+}
+
+div {
+  background-color: red;
+  width: blue;
 }
