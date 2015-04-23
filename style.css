@@ -1,6 +1,10 @@
 .head{
   Background-color: blue;
 }
+
+body {
+  Background-color: green;
+}
 .Block1 {
   Background-color: blue;
 
