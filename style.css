@@ -1,26 +1,26 @@
 .head{
-  Background-color: blue;
+  background-color: blue;
   margin: 0px 5px;
 }
 
 body {
-  Background-color: green;
+  background-color: green;
 }
 .Block1 {
-  Background-color: blue;
+  background-color: blue;
   margin: 0px 5px;
 
 }
 .Block2{
-    Background-color: white;
+    background-color: white;
     margin: 0px 5px;
 }
 .Block3{
-    Background-color: blue;
+    background-color: blue;
     margin: 0px 5px;
 }
-.Block{
-    Background-color: white;
+.Block4{
+    background-color: white;
     margin: 0px 5px;
 }
 
