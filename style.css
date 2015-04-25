@@ -12,19 +12,23 @@ body {
 .Block1 {
   background-color: blue;
   margin: auto;
+  padding: 10px 10px;
 
 }
 .Block2{
     background-color: white;
     margin: auto;
+    padding: 10px 10px;
 }
 .Block3{
     background-color: blue;
     margin: auto;
+    padding: 10px 10px;
 }
 .Block4{
     background-color: white;
     margin: auto;
+    padding: 10px 10px;
 }
 
 
