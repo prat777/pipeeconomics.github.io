@@ -1,6 +1,11 @@
 .head{
   background-color: white;
   margin: auto;
+  padding: 10px 10px;
+}
+body {
+  background-color: green;
+  margin: auto;
 }
 
 
