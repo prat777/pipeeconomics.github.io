@@ -1,9 +1,9 @@
 .head{
-  background-color: blue;
+  background-color: white;
   margin: auto;
 }
 
-.body {
+body {
   background-color: green;
   margin: auto;
 }
