@@ -3,8 +3,9 @@
   margin: auto;
 }
 
-body {
+.body {
   background-color: green;
+  margin: auto;
 }
 .Block1 {
   background-color: blue;
