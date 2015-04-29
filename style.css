@@ -12,8 +12,11 @@
 
 .Block1 {
   background-color: #3776AB;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-size: auto auto;
   margin: auto;
-  padding: 10px 10px;
+
 
 }
 .Block2{
@@ -24,12 +27,18 @@
     margin: auto;
 }
 .Block3{
-    background-color: blue;
+    background-color: #3776AB;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: auto auto;
     margin: auto;
-    padding: 10px 10px;
+
 }
 .Block4{
     background-color: white;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: auto auto;
     margin: auto;
     padding: 10px 10px;
 }
